@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T04:39:28.252Z" agent="5.0 (Windows)" etag="FJezkyUxkvRstP703qyI" version="16.1.0" type="github"><diagram id="looHLvmH4of6g9wz6U7v" name="Page-1">5Vpbc6IwFP41PtYhREAfW2t3d6adtevD7j51UkkhWyBODAr76zeRcA1abaXarQ8dzsdJJN+5cmwPjsPkC0ML/466OOiZhpv04HXPNEemIf5KIM0Ax4EZ4DHiZhAogRn5ixWo1nkxcfGypsgpDThZ1ME5jSI85zUMMUbXdbUnGtS/dYE8rAGzOQp09CdxuZ+hQ8so8a+YeH7+zcBQd0KUKytg6SOXrisQnPTgmFHKs6swGeNAcpfzkq272XK3eDCGI77PgunzxeXttzCg3iIh4QBOmW9dmHa2zQoFsTqxelqe5hQwGkculrsYPXi19gnHswWay7trYXOB+TwMhATEZXFKKTzRiI9pQJmQIxphCZEgyKGeCW9uRuIjcPUYmHGcbD0gKGgT7oZpiDlLhYpaAKFiOq270Lq0W2EMv2Izy1YgUr7iFVuXdIoLxegB7IJDyAUvk6uRdwVt+0jkOXXyoKmzBwaWzl5B89HZMz8ue9bJyRt0S9548zkOecPXcQc6C1tL426ykmcxjTGNlnGI2dk64sjsW40k2EJnWxYcdcWmXmFmnDIsoBlmKyI4apIpjs8bVYUz+ox3lBIFoYB4kRDngi5hJXglySSiml+qGyFxXfk1rSaqF7qW4nUEAwEA+07dRC0O7zj9Fo+HndUpR7MBdkUbpETKuE89GqFgUqINtkqdW0oXymx/MOep6ulQzGndqIIxlv5S6zfCbymIkyvxOqnevE63GwYnhBc7ievKRkIq95FCvk12ZHnO3aYUtNCYzfEO/hR9HDEP8x16w3bXYDhAnKzqz9Fm5M3SS8ZQWlFYUBLxZWXnqQQqtamRXwFs9Ikv6TtGw8GyJyjdrTjK6z3Q0ZLEnTyjyrtvaUj36UFV/q31rsfoCoZOMxu3dVWgJRubnYX66CShruITHBCfRXoAh6WHjTTFjAjCZA3YncyPEv/DPeMfwFMkAKv5XuTsTgBN/YFhdZ8AhloCCNOHDx7+ejNmnzr8C5c+SfgfUp6l0Izi16aEbqMfwD3D33pj9L8t8cOWEvtwH+NYb8Czdjufd5nahGch9cLEkxO//lNA13MfMd4XhgpJhLjkuTUuDx4OHfENXQtGOGoJRqMlGLtruz/QS7ptndtbOhieJJWdZwqy9kxBzikaENs87A3kBf1uGhCwfeozjR8DsvTPeOxj2+c39wH64GeSiEIReXipEfk/j3wGxhmOfPJSU7HOd+ZKF/+UYzl7pNmopVd/bxvpLdumX/v04dP249R720afWP1Aj49E1ou7+09mINA3m9WnO/sIsfzRPKv+5X8ewMk/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-29T04:40:54.238Z" agent="5.0 (Windows)" etag="RNcSP3fFbV35Laq7tPKH" version="16.1.0" type="github">
+  <diagram id="looHLvmH4of6g9wz6U7v" name="Page-1">
+    <mxGraphModel dx="920" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pk-ALImlogpxim43Prh5-26" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontColor=none;fillColor=#FF9999;" parent="1" vertex="1">
+          <mxGeometry x="330" y="10" width="220" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="370" y="320" width="145" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="370" y="50" width="145" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="80" y="50" width="145" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-5" value="Event Consumer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="92.5" y="100" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-6" value="Store Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" parent="1" vertex="1">
+          <mxGeometry x="113.75" y="50" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Pk-ALImlogpxim43Prh5-7" target="Pk-ALImlogpxim43Prh5-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="130" />
+              <mxPoint x="380" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-7" value="My Event" style="rounded=0;whiteSpace=wrap;html=1;fontColor=none;fillColor=#FFB366;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="387.5" y="120" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=none;" parent="1" source="Pk-ALImlogpxim43Prh5-8" target="Pk-ALImlogpxim43Prh5-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="170" />
+              <mxPoint x="530" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-8" value="my_Event" style="rounded=0;whiteSpace=wrap;html=1;fontColor=none;fillColor=#FFB366;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="392.5" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=none;" parent="1" source="Pk-ALImlogpxim43Prh5-13" target="Pk-ALImlogpxim43Prh5-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-13" value="My_Queue" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;shadow=1;fontColor=none;fillColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="392.5" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="650" y="50" width="145" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=none;" parent="1" source="Pk-ALImlogpxim43Prh5-15" target="Pk-ALImlogpxim43Prh5-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="130" />
+              <mxPoint x="620" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-15" value="Event Publisher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="662.5" y="100" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-16" value="Exchanges" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" parent="1" vertex="1">
+          <mxGeometry x="403.75" y="50" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-22" value="Order Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" parent="1" vertex="1">
+          <mxGeometry x="693.75" y="60" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-23" value="Queues" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" parent="1" vertex="1">
+          <mxGeometry x="403.75" y="320" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk-ALImlogpxim43Prh5-27" value="Rabbit MQ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" parent="1" vertex="1">
+          <mxGeometry x="401.25" y="10" width="77.5" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
